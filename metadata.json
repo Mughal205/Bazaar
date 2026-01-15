@@ -1,0 +1,7 @@
+{
+  "name": "Bazaar - Pakistan's Multi-Vendor Marketplace",
+  "description": "A comprehensive e-commerce platform similar to Daraz, featuring multi-vendor support, customer/seller/admin roles, localized payment methods (Easypaisa, JazzCash), and bilingual support (Urdu/English).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
